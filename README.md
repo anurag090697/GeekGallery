@@ -44,4 +44,4 @@ Contributions are welcome!
 
 ## HOSTED LINK
 
-[CLICK HERE]()
+[CLICK HERE](https://geek-gallery.vercel.app/)
