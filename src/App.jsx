@@ -89,7 +89,11 @@ function App() {
                   className='border-2 border-gray-900 rounded w-fit relative overflow-clip'
                   key={index}
                 >
-                  <a href={photo.links.download} target="_blank" rel="noopener noreferrer">
+                  <a
+                    href={photo.links.download}
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
                     <img
                       src={photo.urls.small}
                       alt={photo.alt_description}
